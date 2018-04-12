@@ -6,10 +6,10 @@ No worries, here's the genuine bonafide electrified ROM controller.
 
 ## Operation Modes
 
-Here's a list of some useful opcodes
+Here's a list of some useful opcodes, you can find more in the S25FL128S documentation =.
 
-OPCODE | HEX |
-------- -----
+OPCODE | HEX 
+-------| -----
 READ   | 0x03
 QOR    | 0x3B
 RDID   | 0x9F
